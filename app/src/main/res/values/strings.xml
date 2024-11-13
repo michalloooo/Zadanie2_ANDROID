@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Falsz</string>
+    <string name="button_next">Nastepne</string>
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="button_show_correct_answer">Pokaż</string>
+    <string name="button_prompt_back">Wróć</string>
+    <string name="q_plikr">Plik R.java jest ręcznie edytowany przez programistę w celu dodania nowych zasobów do aplikacji.</string>
+    <string name="p_plikr">Czy do pliku R.java tylko się odnosimy czy moze cos w nim modyfikujemy?.</string>
+    <string name="q_wzorzecmvc">Wzorzec projektowy MVC dzieli aplikację na trzy komponenty: Model, View i Controller.</string>
+    <string name="p_wzorzecmvc">Czy pierwsze litery zgadzają się?.</string>
+    <string name="q_strings">Plik strings.xml jest używany do przechowywania obrazów w aplikacji Android.</string>
+    <string name="p_strings">Co po angielsku znaczy string?.</string>
+    <string name="q_definicjeaktywnosci">Każda aktywność w aplikacji Android powinna być zdefiniowana jako osobna klasa.</string>
+    <string name="p_definicjeaktywnosci">Czy aktywnosci się od siebie czymś różnią?.</string>
+    <string name="q_intent">Intent w Androidzie służy do uruchamiania nowych aktywności oraz do przesyłania danych między nimi.</string>
+    <string name="p_intent">Przypomnij sobie, starczy podpowiedzi!</string>
+    <string name="correct_answer">WOW GIGA ODPOWIEDZ!!!</string>
+    <string name="wrong_answer">DAJ SPOKOJ STARY, POPRAW SIE!</string>
+    <string name="dobre_odpowiedzi">Liczba poprawnych odpowiedzi: </string>
+    <string name="czy_chcesz_zobaczyc">Czy na pewno chcesz zobaczyć podpowiedź?</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
+    <string name="prompt_was_used">UZYTO PODPOWIEDZI!</string>
+
+
+</resources>
